@@ -1,6 +1,6 @@
 # Yudemon ApexFlow - Desktop App
 
-**ApexFlow** is a racing analytics platform that combines heart rate variability (HRV) data with sim racing telemetry to help you understand how stress and focus affect your performance on track.
+[**Yudemon ApexFlow**](https://app.yudemon.com/apexflow/getting-started) is a racing analytics platform that combines heart rate variability (HRV) data with sim racing telemetry to help you understand how stress and focus affect your performance on track.
 
 This desktop app automates the data collection process for iRacing sessions.
 
@@ -31,7 +31,7 @@ Since the app isn't code-signed yet, Windows may show security warnings. This is
 
 After installation, the app will auto-update when new versions are released.
 
-> **A note on trust:** At the end of the day, until I have code-signing set up for the app, you're being asked to trust some stranger on the internet that this software is safe. So that you at least know who that stranger is: You can find my personal website at [maxfrenzel.com](https://maxfrenzel.com) and you can also check my [LinkedIn profile](https://www.linkedin.com/in/max-frenzel-ph-d-60597361/).
+> **A note on trust:** At the end of the day, until I have code-signing set up, you're being asked to trust some stranger on the internet that this software is safe. So that you at least know who that stranger is: You can find my personal website at [maxfrenzel.com](https://maxfrenzel.com) and you can also check my [LinkedIn profile](https://www.linkedin.com/in/max-frenzel-ph-d-60597361/).
 
 ## Requirements
 
@@ -41,5 +41,6 @@ After installation, the app will auto-update when new versions are released.
 
 ## Links
 
+- [ApexFlow Getting Started](https://app.yudemon.com/apexflow/getting-started) - Overview on how to get started
 - [ApexFlow Dashboard](https://app.yudemon.com/apexflow) - View your session analytics
 - [Yudemon](https://yudemon.com) - Learn more about the platform
