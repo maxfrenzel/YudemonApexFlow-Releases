@@ -45,3 +45,4 @@ After installation, the app will auto-update when new versions are released.
 - [ApexFlow Launch Article](https://medium.com/yudemon/the-human-performance-layer-for-racing-introducing-yudemon-apexflow-120bcefdf013) - Medium post going into detail of the launch features
 - [ApexFlow Dashboard](https://app.yudemon.com/apexflow) - View your session analytics
 - [Yudemon](https://yudemon.com) - Learn more about the platform
+- [Privacy Policy](https://app.yudemon.com/privacy)
